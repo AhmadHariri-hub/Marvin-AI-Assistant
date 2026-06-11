@@ -1,0 +1,13 @@
+numpy
+faster-whisper
+sounddevice
+soundfile
+python-dotenv
+openai
+pyttsx3
+PySide6
+kokoro-onnx
+onnxruntime
+
+# Optional GPU acceleration for Kokoro/ONNX Runtime:
+# onnxruntime-gpu[cuda,cudnn]
